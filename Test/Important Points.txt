@@ -1,9 +1,0 @@
-It is important to have a method for tracking all changes, and especially important if those changes require manual migration. 
-A useful tool is a change request form that users and administrators fill out for every enhancement requested or change performed. 
-You can create a custom application within Salesforce to record change requests and the actual changes made.
-
-Most IT organizations also use a spreadsheet to log and track those changes. Spreadsheets allow you to sort by headers, create pivot tables, and perform other useful operations when migrating or tracking those changes. On the spreadsheet list every change that occurred, including:
-Who made the change
-The organization where the change occurred
-Date and time
-Which component was changed
